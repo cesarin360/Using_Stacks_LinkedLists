@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "l1MdaHCShyVrQF/Ai0DQ2mz9Xz3hGu0stAdV8LywvqLBEaJW+7N5zYZnV1q+6GvGox+YWcA4C05ljjjHLf7dLw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\josue\\source\\repos\\StackTest\\StackTest\\StackTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\josue\\.nuget\\packages\\ikvm\\8.1.5717\\ikvm.8.1.5717.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'IKVM 8.1.5717' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "IKVM",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
